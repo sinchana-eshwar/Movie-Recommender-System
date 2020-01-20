@@ -19,14 +19,24 @@ Below is the list of features available-
 
 * id: The ID of the move.
 
-imdb_id: The IMDB ID of the movie.
-original_language: The language in which the movie was originally shot in.
-original_title: The original title of the movie.
-overview: A brief blurb of the movie.
-popularity: The Popularity Score assigned by TMDB.
-poster_path: The URL of the poster image.
-production_companies: A stringified list of production companies involved with the making of the movie.
-production_countries: A stringified list of countries where the movie was shot/produced in.
-release_date: Theatrical Release Date of the movie.
-revenue: The total revenue of the movie in dollars.
-runtime: The runtime of the movie in minutes.
+* imdb_id: The IMDB ID of the movie.
+
+* original_language: The language in which the movie was originally shot in.
+
+* original_title: The original title of the movie.
+
+* overview: A brief blurb of the movie.
+
+* popularity: The Popularity Score assigned by TMDB.
+
+* poster_path: The URL of the poster image.
+
+* production_companies: A stringified list of production companies involved with the making of the movie.
+
+* production_countries: A stringified list of countries where the movie was shot/produced in.
+
+* release_date: Theatrical Release Date of the movie.
+
+* revenue: The total revenue of the movie in dollars.
+
+* runtime: The runtime of the movie in minutes.
